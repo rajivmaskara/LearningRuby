@@ -1,0 +1,53 @@
+
+
+
+#irb ===> Interactive Ruby
+devdocs.io ==> Documentation
+
+Ability to chain methods in Ruby is known as association proxy or Daisy chaining
+
+1) numbers = [10,20,25,40,-5,-10,21]
+COunt of positive and sum of negative numbers
+
+2) given number = 12789234
+expected output = 00111000
+
+if num<5 0 else 1
+
+3) numbers = [10,20,25,40,-5,-10,21,20,20]
+fund the number of times 20 appears in the array
+
+4) names = ["suresh","ramesh","veeresh","mahesh"]
+find if name "mohan" appears in array
+find if name "ramesh" appears in array
+
+Assignment :
+
+1) Given : "virat virat virat sachin dhoni sachin virat virat"
+
+Output
+
+virat : *****
+sachin : **
+dhoni : *
+
+2) How to get the name when we have one of the phone nos in the hash?
+
+3) How to exit from loop using pry?
+
+4)apin.herokuapp.com - URL
+5)gender-api.com - URL
+6) Httparty - Gem
+7) Four hour workweek - Book
+8) REal Hack - Blog
+8a) Smart India hackathon
+9) Sentimental gem analysis with Ruby - URL
+10) Ruby-toolbox.com - URL
+11) Getting real - Book
+12) Rework - Philosophy
+13) Zero to One - Philosophy
+14) ProgrammableWeb - Directory of APIs
+15) Eventify - Github
+
+
+
